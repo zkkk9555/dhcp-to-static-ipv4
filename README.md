@@ -4,6 +4,15 @@
 
 ![界面预览](docs/preview.png)
 
+
+## 下载
+
+**最新版：[Releases](https://github.com/zkkk9555/dhcp-to-static-ipv4/releases/latest)**
+
+- 下载 `DHCP改静态IPV4.exe` 即可直接运行（单文件，需管理员权限）；
+- 也可以下载 `DHCP改静态IPV4-v1.0.0.zip`（含 exe + 说明 + 截图）。
+
+## 目录
 ## 它能做什么
 
 - **自动读取当前 DHCP 信息**：网卡、MAC、IP、掩码、网关、DNS、DHCP 服务器，一屏展示；
