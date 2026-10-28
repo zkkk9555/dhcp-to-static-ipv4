@@ -10,7 +10,7 @@
 **最新版：[Releases](https://github.com/zkkk9555/dhcp-to-static-ipv4/releases/latest)**
 
 - 下载 `DHCP改静态IPV4.exe` 即可直接运行（单文件，需管理员权限）；
-- 也可以下载 `DHCP改静态IPV4-v1.0.0.zip`（含 exe + 说明 + 截图）。
+- 也可以下载 `DHCP-Static-IPv4-v1.0.0.zip`（含 exe + 说明 + 截图）。
 
 ## 目录
 ## 它能做什么

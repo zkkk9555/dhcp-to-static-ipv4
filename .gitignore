@@ -1,4 +1,5 @@
 # build artifacts
+dist/
 src/preview.exe
 src/*.exe
 *.err.txt
