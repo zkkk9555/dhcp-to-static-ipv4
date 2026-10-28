@@ -1,5 +1,8 @@
 # DHCP 改静态 IPv4
 
+[![Release](https://img.shields.io/github/v/release/zkkk9555/dhcp-to-static-ipv4?label=release&color=2563eb)](https://github.com/zkkk9555/dhcp-to-static-ipv4/releases)
+[![Platform](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?logo=windows)](https://github.com/zkkk9555/dhcp-to-static-ipv4)
+
 一个给 Windows 用的桌面小工具：**把 IPv4 从 DHCP 自动获取改成固定 IP，其他信息（子网掩码 / 网关 / DNS）全部沿用当前网络设置，并可一键恢复 DHCP。**
 
 ![界面预览](docs/preview.png)
