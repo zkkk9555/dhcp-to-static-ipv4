@@ -1,0 +1,19 @@
+# build artifacts
+src/preview.exe
+src/*.exe
+*.err.txt
+*.log
+
+# screenshots (keep docs/)
+*.png
+!docs/*.png
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# IDE
+.vs/
+bin/
+obj/
